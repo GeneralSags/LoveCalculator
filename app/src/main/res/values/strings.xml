@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Love Calculator</string>
+    <string name="developedBy">Copyright © 2018 | GeneralSags </string>
+    <string name="result">0%</string>
+    <string name="calculateBtn">Calculate</string>
+    <string name="hint">GeneralSags Logo</string>
+</resources>
